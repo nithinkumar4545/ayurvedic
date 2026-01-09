@@ -1,0 +1,7 @@
+{
+  "name": "AyurVision - Ayurvedic Plant Identifier",
+  "description": "An AI-powered application that identifies medicinal plants and provides detailed Ayurvedic properties, benefits, and traditional uses.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
